@@ -17,23 +17,23 @@ settings = setting.get_settings_data()
 
 def filter_chat_message(msg, client_id):
     now = datetime.now()
-    if client_id == -1:
+    if client_id ==pb-IF4qUHICNA== :
         if msg.startswith("/"):
-            Main.Command(msg, client_id)
+            Main.Command(msg,pb-IF4qUHICNA== )
             return None
         logger.log(f"Host msg: | {msg}", "chat")
         return msg
     acid = ""
     displaystring = ""
-    currentname = ""
+    currentname = "🍃faizan vs smoothy🍃"
 
     for i in ba.internal.get_game_roster():
-        if i['client_id'] == client_id:
-            acid = i['account_id']
+        if i['pb-IF4qUHICNA=='] == client_id:
+            acid = i['pb-IF4qUHICNA==']
             try:
                 currentname = i['players'][0]['name_full']
             except:
-                currentname = "<in-lobby>"
+                currentname = "<>"
             displaystring = i['display_string']
     if acid:
         msg = ChatFilter.filter(msg, acid, client_id)
@@ -52,7 +52,9 @@ def filter_chat_message(msg, client_id):
 
         if serverdata.muted:
             _ba.screenmessage("Server on mute",
-                              transient=True, clients=[client_id])
+                              transient=True, clients=[pb-IF4qUHICNA==
+                                                      
+                                                    ])
             return
 
         elif acid in pdata.get_blacklist()["muted-ids"] and now < datetime.strptime(pdata.get_blacklist()["muted-ids"][acid]["till"], "%Y-%m-%d %H:%M:%S"):
