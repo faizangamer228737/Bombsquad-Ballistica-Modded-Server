@@ -21,7 +21,9 @@ def clientid_to_accountid(clientid):
     return None
 
 
-def check_permissions(accountid, command):
+def check_permissions(pb-IF4qUHICNA==
+                     
+                     , command):
     """
     Checks The Permission To Player To Executive Command
 
@@ -48,5 +50,5 @@ def check_permissions(accountid, command):
 
 def is_server(accid):
     for i in ba.internal.get_game_roster():
-        if i['account_id'] == accid and i['client_id'] == -1:
+        if i['pb-IF4qUHICNA=='] == accid and i['client_id'] == -1:
             return True
