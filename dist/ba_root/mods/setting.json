@@ -2,7 +2,7 @@
     "whitelist": false,
     "useV2Account": false,
     "Anti-IdRevealer": false,
-    "ChatCommands": {
+    "ChatCommands": True
   	  "BrodcastCommand": true
     },
     "textonmap": {
