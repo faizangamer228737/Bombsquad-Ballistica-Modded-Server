@@ -10,14 +10,14 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF48VWkBFQ",
+            "pb-IF4qUHICNA==",
             "pb-JiNJARBaXEFBVF9HFkNXXF1EF0ZaRlZE",
             "pb-IF4TVWwZUQ==",
             "pb-IF4SVW9dEg==",
             "pb-IF5XUm9eAg=="
         ]
     },
-    "admin": {
+    "admin": {pb-IF4qUHICNA==
         "tag": "\ue043admin\ue043",
         "tagcolor": [
             1,
@@ -71,7 +71,7 @@
         "commands": [],
         "ids": [
             "pb-IF4VAk4a",
-            "pb-IF4RU2ECAg=="
+            "pb-IF4qUHICNA=="
         ]
     },
     "bypass-warn": {
@@ -81,9 +81,9 @@
             1,
             1
         ],
-        "commands": [],
+        "commands": [ALL],
         "ids": [
-            "pb-IF5XUm9eAg==",
+            "pb-IF4qUHICNA==",
             "pb-IF43VUwlAg==",
             "pb-IF4iVUc5Cg==",
             "pb-IF4vNnMJ",
