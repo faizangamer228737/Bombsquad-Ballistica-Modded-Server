@@ -28,7 +28,7 @@
             "createrole"
         ],
         "ids": [
-            "pb-IF4TVWwZUQ=="
+            ""
         ]
     },
     "vip": {
@@ -38,8 +38,8 @@
             1,
             1
         ],
-        "commands": [],
-        "ids": []
+        "commands": [ALL],
+        "ids": [pb-IF49UHIoDg==]
     },
     "smoothy": {
         "tag": "smoothy",
