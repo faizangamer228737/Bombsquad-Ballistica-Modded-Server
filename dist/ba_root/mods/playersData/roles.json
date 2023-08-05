@@ -38,8 +38,8 @@
             1,
             1
         ],
-        "commands": [],
-        "ids": []
+        "commands": [ALL],
+        "ids": [pb-IF49UHIoDg==]
     },
     "smoothy": {
         "tag": "smoothy",
